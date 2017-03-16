@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A2B7B473-3EDE-4264-8E0D-13C4881129CB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BevyDriver</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>506b398b-551e-42ed-8233-d168df2ad32f</key>
+		<string>http://192.168.34.125/usvn-iphone/svn/EasyCup</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BevyDriver_SVN/trunk/Code/BevyDriver.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>506b398b-551e-42ed-8233-d168df2ad32f</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>506b398b-551e-42ed-8233-d168df2ad32f</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>506b398b-551e-42ed-8233-d168df2ad32f</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SVN_PROJECT</string>
+		</dict>
+	</array>
+</dict>
+</plist>

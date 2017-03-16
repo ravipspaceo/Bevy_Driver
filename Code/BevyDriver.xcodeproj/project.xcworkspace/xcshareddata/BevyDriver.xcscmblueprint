@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "13906F2D64210FA7595C8B10C1B7DB56B99578C7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "a25edb25-a6cd-4903-8c40-e71a664e5225" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "a25edb25-a6cd-4903-8c40-e71a664e5225" : 0,
+    "13906F2D64210FA7595C8B10C1B7DB56B99578C7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A2B7B473-3EDE-4264-8E0D-13C4881129CB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "a25edb25-a6cd-4903-8c40-e71a664e5225" : "..\/..",
+    "13906F2D64210FA7595C8B10C1B7DB56B99578C7" : "bevy_driver_app\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BevyDriver",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Code\/BevyDriver.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.34.240\/mob.ios\/bevy_driver_app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "13906F2D64210FA7595C8B10C1B7DB56B99578C7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.34.125\/usvn-iphone\/svn\/PinsNPost",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a25edb25-a6cd-4903-8c40-e71a664e5225"
+    }
+  ]
+}
